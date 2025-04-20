@@ -1,0 +1,5 @@
+/home/mohammed/Dr/Chess/build/CMakeFiles/edit_cache.dir
+/home/mohammed/Dr/Chess/build/CMakeFiles/rebuild_cache.dir
+/home/mohammed/Dr/Chess/build/src/CMakeFiles/Chess.dir
+/home/mohammed/Dr/Chess/build/src/CMakeFiles/edit_cache.dir
+/home/mohammed/Dr/Chess/build/src/CMakeFiles/rebuild_cache.dir
