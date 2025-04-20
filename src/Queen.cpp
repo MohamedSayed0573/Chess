@@ -27,7 +27,7 @@ void Queen::sayMyName()
 	}
 	else
 	{
-		std::cout << "WHTIE QUEEN" << std::endl;
+		std::cout << "WHITE QUEEN" << std::endl;
 	}
 }
 

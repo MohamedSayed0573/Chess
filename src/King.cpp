@@ -29,7 +29,7 @@ void King::sayMyName()
 	}
 	else
 	{
-		std::cout << "WHTIE KING" << std::endl;
+		std::cout << "WHITE KING" << std::endl;
 	}
 }
 

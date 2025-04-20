@@ -31,10 +31,6 @@
 - SDL2
 - SDL2_image
 
-## Future Updates
-
-- kp digga
-
 ## Author
 
 **Julian Unland**

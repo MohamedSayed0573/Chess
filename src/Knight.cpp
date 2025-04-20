@@ -26,7 +26,7 @@ void Knight::sayMyName()
 	}
 	else
 	{
-		std::cout << "WHTIE KNIGHT" << std::endl;
+		std::cout << "WHITE KNIGHT" << std::endl;
 	}
 }
 
